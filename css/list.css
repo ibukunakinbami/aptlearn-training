@@ -13,3 +13,18 @@ body{
     padding: 0.5%;
     border-radius: 5%;
 }
+
+#default-ol, #lowerCase-Roman, #upperCase-Roman, #lowerCase-Alpha, #upperCase-Alpha{
+    margin-left: 5%;
+    border: 1px solid grey;
+    padding: 0.5%;
+    border-radius: 5%;
+}
+
+#heading{
+    text-align: center;
+    color: blue;
+}
+h1{
+    text-align: center;
+}
